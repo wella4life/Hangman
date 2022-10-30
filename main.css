@@ -11,6 +11,11 @@ body {
 .row {
   display: flex;
 }
+@media (max-width: 720px) {
+  .row {
+    flex-direction: column;
+  }
+}
 hr {
   border: 1px solid #eee;
 }
@@ -242,4 +247,12 @@ hr {
   font-size: 40px;
   border: 1px solid #ccc;
   color: #fff;
+}
+@media (max-width: 720px) {
+  .popup {
+    width: 85%;
+    padding: 50px 25px;
+    top: 26%;
+    left: 8%;
+  }
 }
