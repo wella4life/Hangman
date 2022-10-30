@@ -1,8 +1,8 @@
 - Overview:
   - Hangman Game
   - https://wella4life.github.io/Hangman
-  - ![](images/Finished-Desktop.jpg)
-  - ![](images/Finished-Mobile.jpg)
+  - ![](Finished-Desktop.jpg)
+  - ![](Finished-Mobile.jpg)
 
  - Users should be able to:
  Play Hangman game from start to finish
